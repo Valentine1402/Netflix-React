@@ -1,1 +1,1 @@
-small copy of netflix to learn eact
+Small copy of Netflix to learn React
