@@ -1,1 +1,1 @@
-Netflix-React
+https://magic.reactjs.net/htmltojsx.htm possiamo utilizzare questo sito che trasforma l'html in componente react
